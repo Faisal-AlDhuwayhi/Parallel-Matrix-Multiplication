@@ -1,5 +1,7 @@
 # Parallel Matrix Multiplication
-The project aims to use the power of parallel processing by applying matrix multiplication operations in-parallel with the usage of OpenMP API of C language.
+**The project discusses the ability to utilize parallel processing to solve the problem
+of matrix multiplication**, especially multiplying two matrices of the squared size of
+MxM of randomly generated numbers. With the employment of OpenMP API of C language.
 
 ## Project Experiment
 In this project, you need to write a parallel program using OpenMP that calculates the multiplication of 2 matrices A and B of size MxM. 
